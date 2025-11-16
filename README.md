@@ -1,4 +1,9 @@
 # Pizza-Sales-Dashboard
+🍕 Pizza Sales Analysis Dashboard
+
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 📘 Project Overview
 
 This project presents an interactive Pizza Sales Dashboard built using Power BI, designed to analyze sales performance and uncover valuable business insights.
