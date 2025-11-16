@@ -57,7 +57,7 @@ These insights help optimize menu strategy, inventory planning & marketing decis
 
 📷 Dashboard Preview
 
-(Add your screenshots here)
+(https://github.com/mohit007-ui/Pizza-Sales-Dashboard/blob/main/pizza_sales.png)
 
 🚀 How This Project Helps
 
