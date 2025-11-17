@@ -4,6 +4,26 @@
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
+🧩 Business Problem Statement
+
+Pizza stores handle thousands of orders daily, but struggle to identify which pizzas drive the most revenue 💰, which sizes sell the most 🍕, and when customer demand peaks ⏰. Without clear insights, it becomes difficult to optimize menu offerings, manage inventory, and increase profitability.
+
+This dashboard analyzes 21K+ orders, revealing:
+
+🗓️ Busiest days & months for sales
+
+🍕 Top-selling pizza categories & sizes
+
+📈 Monthly order trends & revenue patterns
+
+🥇 Best sellers & worst sellers by revenue, orders, and quantity
+
+🧀 Which pizzas contribute the most — and least — to total sales
+
+These insights help businesses improve menu strategy, stock planning, and marketing decisions to boost overall pizza sales performance.
+
+
 📘 Project Overview
 
 This project presents an interactive Pizza Sales Dashboard built using Power BI, designed to analyze sales performance and uncover valuable business insights.
